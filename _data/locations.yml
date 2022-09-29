@@ -26,6 +26,15 @@ V-01-020:
   web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
   osm: "https://www.openstreetmap.org/way/285621792"
 
+  V-01-022:
+  short: "V-01-022, Building 3, LUMC"
+  name: "V-01-022, Building 3"
+  street: "Onderwijsgebouw, Leiden University Medical Center"
+  city: "Leiden"
+  web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
+  osm: "https://www.openstreetmap.org/way/285621792"
+
 None:
   short: ""
   name: ""
+
