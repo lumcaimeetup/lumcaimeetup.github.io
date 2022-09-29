@@ -6,11 +6,11 @@ links:
     "Meetup.com": "https://www.meetup.com/example"
 location: CollegeZal1
 talks:
-- title: "Example talk"
+- title: "Transformers for 4D Flow MRI"
   speaker:
     name: "Xiaowu Sun"
     twitter: Meh
-    github: https://github.com/xiaowustudio-xiaowu
+    github: xiaowustudio-xiaowu
   abstract: |
     Meh meh meh! This is the abstract
 ---
