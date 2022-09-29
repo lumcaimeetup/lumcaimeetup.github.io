@@ -11,9 +11,17 @@ Collegezaal1:
     - Profit
 
 S-05-026:
-  short: "S-05-026"
-  name: "S-05-026, Gebouw 2"
+  short: "S-05-026, Building 2, LUMC"
+  name: "S-05-026, Building 2"
   street: "Onderzoeksgebouw, Leiden University Medical Center"
   city: "Leiden"
   web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
   osm: "https://www.openstreetmap.org/way/285621791"
+
+V-01-020:
+  short: "V-01-020, Building 3, LUMC"
+  name: "V-01-020, Building 3"
+  street: "Onderwijsgebouw, Leiden University Medical Center"
+  city: "Leiden"
+  web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
+  osm: "https://www.openstreetmap.org/way/285621792"
