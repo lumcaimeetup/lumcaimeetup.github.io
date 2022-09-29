@@ -8,7 +8,6 @@ location: V-01-022
 picture: /assets/motioncorruptedmri.png
 talks:
 - title: "Investigation of the effect of motion on MRI reconstruction, and demostration that finetuning by training with synthetic motion corrupted data can enhance the motion robustness of existing deep learning based reconstruction approaches."
-  picture: /assets/motioncorruptedmri.png
   speaker:
     name: "Laurens Beljaards"
     twitter: 
