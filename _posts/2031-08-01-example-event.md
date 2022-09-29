@@ -1,27 +1,18 @@
 ---
-title: "Example event"
-date: 2031-08-01 19:15:00 MESZ
+title: "Transformers for 4D Flow MRI"
+date: 2022-10-06 16:00:00 CET
 categories: meetup 
 links:
     "Meetup.com": "https://www.meetup.com/example"
-location: example-venue
+location: CollegeZal1
 talks:
 - title: "Example talk"
   speaker:
-    name: "Max Mustermann"
-    twitter: maxm
-    github: maxm
+    name: "Xiaowu Sun"
+    twitter: Meh
+    github: https://github.com/xiaowustudio-xiaowu
   abstract: |
-    This is just an example talk that you can replace with the actual
-    talk abstract if you have one!
+    Meh meh meh! This is the abstract
 ---
 
-This meetup is super cool and you should totally attend it.
-
-Wow! __Markdown__
-
-```rust
-fn main() {
-    println!("rust code!");
-}
-```
+In this meetup, yada, ydada, ydada
