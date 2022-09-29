@@ -1,10 +1,10 @@
 {% assign event = include.event %}
 <article class="event is-inline" itemscope itemtype="http://schema.org/SocialEvent" itemid="{{ event.url | prepend: site.baseurl }}">
-  <div style="width:100%;">
-    <div style="float:left; width:20%;">
+  <div>
+    <div style="float:left">
       <img src="/assets/Picture1.png" width="200" /> 
     </div>
-    <div style="float:left; width:80%; margin-left:10px;">
+    <div style="float:left; margin-left:10px;">
       <header>
         <h1 class="event-title">
           {% include event-title.html event=event %}
