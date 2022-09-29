@@ -1,8 +1,8 @@
-example-venue:
-  short: "Example"
-  name: "Example Venue"
-  street: "Test Street 4"
-  city: "Testburg"
+Collegezaal1:
+  short: "CZ1"
+  name: "Collegezaal1"
+  street: "Leiden university Medical Center"
+  city: "Leiden"
   web: "http://test.com"
   osm: "https://www.openstreetmap.org/node/42069"
   directions: |
