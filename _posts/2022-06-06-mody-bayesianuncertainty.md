@@ -5,7 +5,7 @@ categories: meetup
 links:
     "Springer": "https://link.springer.com/chapter/10.1007/978-3-031-16749-2_7"
     "Github": https://github.com/prerakmody/hansegmentation-uncertainty-errordetection
-location: 
+location: None
 talks:
 - title: "Towards faster error detection of deep learning contours using Bayesian uncertainty heatmaps in radiotherapy"
   speaker:
@@ -19,5 +19,5 @@ talks:
 
     We train and evaluate a FlipOut BNN model on the MICCAI2015 Head and Neck Segmentation challenge dataset and on the DeepMind-TCIA dataset, and observed an increase in the AUC of uncertainty-ROC curves by 5.6% and 5.9%, respectively, when using the AvU objective. The AvU objective primarily reduced false positives regions (uncertain and accurate), drawing less visual attention to these regions, thereby potentially improving the speed of error detection.
 
-    
+
 ---

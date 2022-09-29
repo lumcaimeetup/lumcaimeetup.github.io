@@ -25,3 +25,7 @@ V-01-020:
   city: "Leiden"
   web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
   osm: "https://www.openstreetmap.org/way/285621792"
+
+None:
+  short: ""
+  name: ""
