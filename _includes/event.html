@@ -9,6 +9,10 @@
   <div class="event-description text" itemprop="description">
     {{ event.content | markdownify}}
 
+    {% if event.picture %}
+      <img src="{{ event.picture }}" width="200" /> 
+    {% endif %}
+    
     {% include meetup-rsvp-button.html event=event %}
   </div>
 

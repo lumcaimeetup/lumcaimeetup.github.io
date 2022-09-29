@@ -23,6 +23,9 @@
       </header>
       {% if include.show_abstract && if talk.abstract %}
       <div class="talk-abstract" itemprop="description">
+        {% if talk.picture %}
+        <img src="{{ talk.picture }}" width="200" /> 
+        {% endif %}
         {{ talk.abstract | markdownify }}
       </div>
       {% endif %}
