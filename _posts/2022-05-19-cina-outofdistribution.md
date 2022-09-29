@@ -7,7 +7,6 @@ location: V-01-020
 picture: /assets/pacmed-logo.png
 talks:
 - title: "Out-Of-Distribution detection on tabular medical data."
-  picture: /assets/pacmed-logo.png
   speaker:
     name: " Giovanni Cinà"
     twitter: 

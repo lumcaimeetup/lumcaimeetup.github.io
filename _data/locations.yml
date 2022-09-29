@@ -34,6 +34,13 @@ V-01-022:
   web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
   osm: "https://www.openstreetmap.org/way/285621792"
 
+vdwerff:
+  short: "Stadscafé Van der Werff"
+  name: "Stadscafé Van der Werff"
+  street: "Steenstraat 2"
+  city: "Leiden"
+  osm: "https://www.openstreetmap.org/node/274486863"
+
 Online:
   short: ""
   name: ""
