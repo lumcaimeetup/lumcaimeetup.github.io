@@ -1,17 +1,17 @@
 # Site settings
-title: rust-meetup-template
-description: "A starter template for recurring meetups."
+title: LUMC AI Research Meetups
+description: "Agenda and archive for AI meetups conducted at Leiden University Medical Center, The Netherlands."
 baseurl: ""
 url: "http://CHANGEME.com"
 author:
-  name: CHANGEME 
-  twitter: CHANGEME
-  github: CHANGEME
-  meetup: CHANGEME
-  email: CHANGEME@test.com
+  name: Prerak Mody 
+  twitter: modybaba101
+  github: lumcaimeetup
+  meetup: 
+  email: AI_Research_Meetings_RT@lumc.nl
 
-feedback_url: https://github.com/CHANGEME/CHANGEME
-source_url: https://github.com/CHANGEME/CHANGEME
+feedback_url: https://github.com/lumcaimeetup/lumcaimeetup.github.io
+source_url: https://github.com/lumcaimeetup/lumcaimeetup.github.io
 
 google_maps_api_key: AIzaSyBkz492n9gf895Tfi12ikKVurgIHHOFmK4
 
