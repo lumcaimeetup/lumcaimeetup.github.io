@@ -5,6 +5,7 @@ categories: meetup
 links:
     "Springer": "https://link.springer.com/chapter/10.1007/978-3-031-16443-9_36"
 location: S-05-026
+picture: /assets/Picture2.png
 talks:
 - title: "Transformer based feature fusion for left ventricle segmentation in 4D flow MRI"
   speaker:
