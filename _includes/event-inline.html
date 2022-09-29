@@ -10,7 +10,8 @@
           {% include event-title.html event=event %}
         </h1>
       </header>
-      
+    </div>
+    <div style="float:left; margin-left:10px;">
       {% if event.talks %}
       <ol class="talk-list is-short">
       {% include talk-list.html talks=event.talks show_abstract=false %}
