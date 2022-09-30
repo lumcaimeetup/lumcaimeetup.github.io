@@ -36,6 +36,12 @@
     </em></p>
   {% endif %}
 
+  {% if include.show_registerlink %}
+    <strong>
+      <a href="https://forms.office.com/r/LnsVnqKdL8"> If you have not, register on our mailing list for more details of this and upcoming events.</a>
+    </strong>    
+  {% endif %}
+
   {% include location.html location=event.location %}
 
   {% include event-links.html event=event %}
