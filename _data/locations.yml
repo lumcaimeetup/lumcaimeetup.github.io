@@ -5,10 +5,6 @@ Collegezaal1:
   city: "Leiden"
   web: "http://test.com"
   osm: "https://www.openstreetmap.org/node/42069"
-  directions: |
-    - Go across the street
-    - ???
-    - Profit
 
 S-05-026:
   short: "S-05-026, Building 2, LUMC"
