@@ -2,18 +2,34 @@
   <div class="wrapper">
     <div class="left">
       <!-- {% if include.variant == "start-page" %}<h1>{% endif %} -->
-      <a class="site-title" href="{{ site.baseurl }}/">
-        {{ site.title }}
-      </a>
+      
+        <h1>
+          <a class="site-title" href="{{ site.baseurl }}/">
+            {{ site.title }}
+          </a>
+        </h1>
       <!-- {% if include.variant == "start-page" %}</h1>{% endif %} -->
+
       <p class="byline">
         {{ site.description }}
       </p>
+
     </div>
+
     <div class="right">
-      <a href="{{ site.baseurl }}/">
-        {% include logo.html %}
-      </a>
+      <div>
+        <div>
+          <a href="{{ site.baseurl }}/">
+            {% include logo.html %}
+          </a>
+        </div>
+        <div>
+          <strong>
+            <a href="https://forms.office.com/r/LnsVnqKdL8">Register on our mailing list</a>
+          </strong>
+      </div>
     </div>
+    </div>
+
   </div>
 </header>
