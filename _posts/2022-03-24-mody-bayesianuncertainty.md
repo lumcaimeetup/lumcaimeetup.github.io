@@ -6,7 +6,7 @@ links:
     "Springer": "https://link.springer.com/chapter/10.1007/978-3-031-16749-2_7"
     "Github": https://github.com/prerakmody/hansegmentation-uncertainty-errordetection
 location: None
-logo: /assets/Picture2.png
+logo: /assets/logo-lkeb.png
 talks:
 - title: "Towards faster error detection of deep learning contours using Bayesian uncertainty heatmaps in radiotherapy"
   speaker:

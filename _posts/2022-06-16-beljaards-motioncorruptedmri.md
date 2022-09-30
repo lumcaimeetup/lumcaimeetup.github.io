@@ -12,6 +12,7 @@ talks:
     name: "Laurens Beljaards"
     twitter: 
     github: 
+    organization: Division of Image Processing (LKEB)
   abstract: |
     MRI can be accelerated via (AI-based) reconstruction by undersampling k-space. Current methods typically ignore intra-scan motion, although even a few millimeters of motion can introduce severe blurring and ghosting artifacts that necessitate reacquisition. We investigate i) the effects of rigid-body motion on the quality of AI-based reconstructions, and ii) if this corruption can be mitigated by introducing motion-corrupted data during training. We observe an improvement from 0.819 to 0.867 in terms of SSIM when motion-corrupted brain data is included during training, demonstrating that training with motion-corrupted data can partially compensate for motion corruption.
 ---

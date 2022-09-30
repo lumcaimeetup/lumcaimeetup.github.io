@@ -12,5 +12,6 @@ talks:
     name: "Floortje Jolink & Bob Vonk"
     twitter: 
     github: 
+    organization: Aidence
   abstract: |
 ---
