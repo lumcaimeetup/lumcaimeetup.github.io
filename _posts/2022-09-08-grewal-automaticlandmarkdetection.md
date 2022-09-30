@@ -13,6 +13,7 @@ talks:
     name: "Monika Grewal"
     twitter: MonikaGrewal13
     github: monikagrewal
+    scholar: 20XEyVoAAAAJ
     organization: Centrum Wiskunde & Informatica (CWI)
   abstract: |
     Automatic landmarks correspondences in medical images have several use cases e.g., providing additional guidance to deformable image registration. We propose an end-to-end deep learning approach to find landmark correspondences in medical images. The key feature of our approach is that it does not require manual annotations or definitions of landmarks for training. We developed our approach for 3D abdominal CT scans and tested it on pelvic CT and pelvic MRI scans.

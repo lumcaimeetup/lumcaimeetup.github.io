@@ -50,7 +50,7 @@
         {% endif %}
         
         <p align="justify">
-          {{ talk.abstract | markdownify }}
+          {{ talk.abstract | markdownify | remove: '<p>' | remove: '</p>' }}
         </p>
 
       </div>

@@ -10,7 +10,7 @@ talks:
   speaker:
     name: "Viktor van der Valk"
     twitter: 
-    github: 
+    github: ViktorvdValk
     organization: Division of Image Processing (LKEB)
   abstract: |
 ---

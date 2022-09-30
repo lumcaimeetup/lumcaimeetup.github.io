@@ -6,9 +6,9 @@
   }
 
   .address,
-  // .location-directions {
-  //   @extend %half;
-  // }
+  .location-directions {
+    @extend %half;
+  }
 
   .map-container {
     position: relative;
@@ -31,16 +31,16 @@
     margin-bottom: $spacing;
   }
 
-  // .location-directions {
-  //   font-size: 0.9rem;
-  //   line-height: 1.5;
+  .location-directions {
+    font-size: 0.9rem;
+    line-height: 1.5;
     
-  //   @media screen and (max-width: $breakpoint-one-column) {
-  //     margin-top: 1em;
-  //   }
+    @media screen and (max-width: $breakpoint-one-column) {
+      margin-top: 1em;
+    }
     
-  //   ul:first-child {
-  //     margin-top: 0;
-  //   }
-  // }
+    ul:first-child {
+      margin-top: 0;
+    }
+  }
 }
