@@ -4,7 +4,7 @@ date: 2022-05-12 16:00:00 CET
 categories: meetup 
 links:
 location: vdwerff
-logo: /assets/drinks.jpeg
+logo: /assets/logo-drinks.jpeg
 talks:
 - title: "Let have some drinks together!"
   speaker:

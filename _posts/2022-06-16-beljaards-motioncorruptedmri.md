@@ -5,7 +5,7 @@ categories: meetup
 links:
     "Springer": "https://link.springer.com/chapter/10.1007/978-3-031-16443-9_36"
 location: V-01-022
-logo: /assets/motioncorruptedmri.png
+logo: /assets/logo-motioncorruptedmri.png
 talks:
 - title: "Investigation of the effect of motion on MRI reconstruction, and demostration that finetuning by training with synthetic motion corrupted data can enhance the motion robustness of existing deep learning based reconstruction approaches."
   speaker:

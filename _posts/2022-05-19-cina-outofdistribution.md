@@ -4,7 +4,7 @@ date: 2022-05-19 16:00:00 CET
 categories: meetup 
 links:
 location: V-01-020
-logo: /assets/pacmed-logo.png
+logo: /assets/logo-pacmed.png
 talks:
 - title: "Out-Of-Distribution detection on tabular medical data."
   speaker:

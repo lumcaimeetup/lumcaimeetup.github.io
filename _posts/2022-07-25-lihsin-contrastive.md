@@ -5,7 +5,7 @@ categories: meetup
 links:
     "Springer": "https://link.springer.com/chapter/10.1007/978-3-031-16440-8_33"
 location: V-01-020
-logo: /assets/Picture1.png
+logo: /assets/logo-default.png
 talks:
 - title: "Contrastive learning for echocardiographic view integration"
   speaker:
