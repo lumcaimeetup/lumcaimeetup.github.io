@@ -11,7 +11,7 @@ S-05-026:
   name: "S-05-026, Building 2"
   street: "Onderzoeksgebouw, Leiden University Medical Center"
   city: "Leiden"
-  web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
+  web: "https://www.lumc.nl/ove/ima/1000223/LUMCgebouwen2021"
   osm: "https://www.openstreetmap.org/way/285621791"
 
 S-05-024:
@@ -19,7 +19,7 @@ S-05-024:
   name: "S-05-024, Building 2"
   street: "Onderzoeksgebouw, Leiden University Medical Center"
   city: "Leiden"
-  web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
+  web: "https://www.lumc.nl/ove/ima/1000223/LUMCgebouwen2021"
   osm: "https://www.openstreetmap.org/way/285621791"
 
 V-01-020:
@@ -27,7 +27,7 @@ V-01-020:
   name: "V-01-020, Building 3"
   street: "Onderwijsgebouw, Leiden University Medical Center"
   city: "Leiden"
-  web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
+  web: "https://www.lumc.nl/ove/ima/1000223/LUMCgebouwen2021"
   osm: "https://www.openstreetmap.org/way/285621792"
 
 V-01-022:
@@ -35,7 +35,7 @@ V-01-022:
   name: "V-01-022, Building 3"
   street: "Onderwijsgebouw, Leiden University Medical Center"
   city: "Leiden"
-  web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
+  web: "https://www.lumc.nl/ove/ima/1000223/LUMCgebouwen2021"
   osm: "https://www.openstreetmap.org/way/285621792"
 
 vdwerff:
