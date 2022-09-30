@@ -42,8 +42,8 @@ vdwerff:
   osm: "https://www.openstreetmap.org/node/274486863"
 
 Online:
-  short: ""
-  name: ""
+  short: "Online"
+  name: "Online"
 
 None:
   short: "Online"
