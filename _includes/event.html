@@ -41,8 +41,10 @@
       If you haven't, <a href="https://forms.office.com/r/LnsVnqKdL8">register on our mailing list</a>  for more details of this and upcoming events.
     </strong>    
   {% endif %}
-
-  {% include location.html location=event.location %}
+  
+  {% if include.show_registerlink %}
+    {% include location.html location=event.location %}
+  {% endif %}
 
   {% include event-links.html event=event %}
 </div>
