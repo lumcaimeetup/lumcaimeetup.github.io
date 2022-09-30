@@ -17,7 +17,7 @@
             </a>
           {% endif %}
           {% if talk.speaker.organization %}
-            from <em class="talk-speaker" itemprop="organization">{{talk.speaker.organization}}</em>
+            from <em class="talk-speaker" style="color: slategray;" itemprop="organization">{{talk.speaker.organization}}</em>
           {% endif %}
           {% if talk.slides %}
             &mdash; <a itemprop="isBasedOnUrl" href="{{ talk.slides }}">Slides</a>
