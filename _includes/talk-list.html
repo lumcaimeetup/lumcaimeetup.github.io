@@ -23,12 +23,12 @@
 
           {% if talk.speaker.scholar %}
             <a class="talk-speaker-scholar" itemprop="sameAs" href="https://scholar.google.com/citations?user={{talk.speaker.scholar}}" title="@{{talk.speaker.scholar}} on Scholar">
-              {% include logo-github.html %}
+              {% include logo-scholar.html %}
             </a>
           {% endif %}
           
           {% if talk.speaker.organization %}
-            from <em class="talk-speaker" style="color: slategray;" itemprop="organization">{{talk.speaker.organization}}</em>
+            &nbsp; from <em class="talk-speaker" style="color: slategray;" itemprop="organization">{{talk.speaker.organization}}</em>
           {% endif %}
           
           {% if talk.slides %}
