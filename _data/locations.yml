@@ -18,6 +18,14 @@ S-05-026:
   web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
   osm: "https://www.openstreetmap.org/way/285621791"
 
+S-05-024:
+  short: "S-05-024, Building 2, LUMC"
+  name: "S-05-024, Building 2"
+  street: "Onderzoeksgebouw, Leiden University Medical Center"
+  city: "Leiden"
+  web: "https://www.lumc.nl/over-het-lumc/contact/routebeschrijving/"
+  osm: "https://www.openstreetmap.org/way/285621791"
+
 V-01-020:
   short: "V-01-020, Building 3, LUMC"
   name: "V-01-020, Building 3"
