@@ -6,7 +6,7 @@ links:
     "Springer": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11313/1131328/An-end-to-end-deep-learning-approach-for-landmark-detection/10.1117/12.2549302.short?SSO=1"
     "Github": "https://github.com/monikagrewal/End2EndLandmarks"
 location: S-05-026
-picture: /assets/cwi-logo.png
+logo: /assets/cwi-logo.png
 talks:
 - title: "End-to-end Deep Learning Approach for Automatic Landmarks Correspondence Detection in Medical Images"
   speaker:

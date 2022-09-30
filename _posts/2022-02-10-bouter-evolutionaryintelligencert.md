@@ -4,7 +4,7 @@ date: 2022-02-10 16:00:00 CET
 categories: meetup 
 links:
 location: Online
-picture: /assets/cwi-logo.png
+logo: /assets/cwi-logo.png
 talks:
 - title: "Evolutionary Intelligent Bi-objective Treatment Planning for Prostate HDR Brachytherapy"
   speaker:

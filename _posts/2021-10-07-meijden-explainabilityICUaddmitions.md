@@ -3,7 +3,7 @@ title: "Explainability of AI models"
 date: 2021-10-07 16:00:00 CET
 categories: meetup 
 links:
-location: Online
+logo: Online
 picture: /assets/CAIRELab.png
 talks:
 - title: "Comparing several types of machine learning models on predictive performance and explainability for the prediction of ICU readmission."

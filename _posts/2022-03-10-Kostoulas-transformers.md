@@ -4,7 +4,7 @@ date: 2022-03-10 16:00:00 CET
 categories: meetup 
 links:
 location: Online
-picture: /assets/transformer.jpeg
+logo: /assets/transformer.jpeg
 talks:
 - title: "Transformers for Image Segmentations"
   speaker:
