@@ -1,5 +1,5 @@
 ---
-title: "Predicting depression in cancer patients before the onset of treatment"
+title: "Predicting depression before the onset of treatment"
 date: 2022-11-17 16:00:00 CET
 categories: meetup 
 links:
