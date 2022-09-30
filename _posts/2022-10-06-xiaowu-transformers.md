@@ -8,7 +8,7 @@ location: S-05-026
 logo: /assets/logo-lkeb.png
 talks:
 - title: "Transformer based feature fusion for left ventricle segmentation in 4D flow MRI"
-  picture: /assets/Picture1.png
+  picture: /assets/picture-xiaowu-transformers.webp
   speaker:
     name: "Xiaowu Sun"
     twitter: 
