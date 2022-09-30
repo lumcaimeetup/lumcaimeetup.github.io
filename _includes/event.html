@@ -42,7 +42,7 @@
     </strong>    
   {% endif %}
   
-  {% if include.show_registerlink %}
+  {% if not include.show_registerlink %}
     {% include location.html location=event.location %}
   {% endif %}
 
