@@ -11,6 +11,6 @@ talks:
     name: "Viktor van der Valk"
     twitter: 
     github: 
-    organisation: Division of Image Processing (LKEB)
+    organization: Division of Image Processing (LKEB)
   abstract: |
 ---

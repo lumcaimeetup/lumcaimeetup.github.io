@@ -11,6 +11,6 @@ talks:
     name: "Anne de Hond & Marieke van Buchem"
     twitter: 
     github: 
-    organisation: IT&DI department of Leiden University Medical Center
+    organization: IT&DI department of Leiden University Medical Center
   abstract: |
 ---
