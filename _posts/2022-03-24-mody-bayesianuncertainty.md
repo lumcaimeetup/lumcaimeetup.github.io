@@ -1,5 +1,5 @@
 ---
-title: "Bayesian Deep Learning"
+title: "Bayesian Deep Learning for Error Detection"
 date: 2022-03-24 16:00:00 CET
 categories: meetup 
 links:
@@ -13,6 +13,7 @@ talks:
     name: "Prerak Mody"
     twitter: modybaba101
     github: prerakmody
+    scholar: KufX7AYAAAAJ
   abstract: |
     Bayesian Neural Nets (BNN) are increasingly used for robust organ auto-contouring. Uncertainty heatmaps extracted from BNNs have been shown to correspond to inaccurate regions. To help speed up the mandatory quality assessment (QA) of contours in radiotherapy, these heatmaps could be used as stimuli to direct visual attention of clinicians to potential inaccuracies. In practice, this is non-trivial to achieve since many accurate regions also exhibit uncertainty. 
 

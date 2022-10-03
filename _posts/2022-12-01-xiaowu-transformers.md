@@ -1,8 +1,8 @@
 ---
 title: "Transformers for 4D Flow MRI"
-date: 2022-10-06 16:00:00 CET
+date: 2022-12-01 16:00:00 CET
 categories: meetup 
-location: S-05-026
+location: V-01-022
 logo: /assets/logo-lkeb.png
 talks:
 - title: "Transformer based feature fusion for left ventricle segmentation in 4D flow MRI"
