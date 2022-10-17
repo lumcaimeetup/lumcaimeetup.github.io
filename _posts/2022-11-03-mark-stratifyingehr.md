@@ -8,7 +8,7 @@ logo: /assets/lcbc.png
 talks:
 - title: "Stratifying patients using EHR data and machine learning approaches"
   speaker:
-    name: "Mark Maurits"
+    name: "Marc Maurits"
     twitter: 
     github: 
     scholar: 

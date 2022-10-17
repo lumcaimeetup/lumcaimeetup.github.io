@@ -8,7 +8,7 @@ talks:
 - title: "Validation of Transpara, AI for breast cancer detection in mammography and tomosynthesis"
   picture:
   speaker:
-    name: "Jaap Kroes"
+    name: "Jaap Kroes & Natasja Janssen"
     twitter: 
     github: 
     scholar: 
