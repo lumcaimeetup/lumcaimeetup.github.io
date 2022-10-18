@@ -6,9 +6,9 @@ links:
 location: V-01-022
 logo: /assets/logo-cairelab.png
 talks:
-- title: "Predicting depression in cancer patients before the onset of treatment."
+- title: "Towards AI a mature AI infrastructure."
   speaker:
-    name: "Anne de Hond & Marieke van Buchem"
+    name: "Alexander van Someren"
     twitter: 
     github: 
     organization: IT&DI department of Leiden University Medical Center
