@@ -1,17 +1,16 @@
 ---
-title: "AI Infrastructure at the LUMC"
+title: "Predicting depression before the onset of treatment"
 date: 2022-10-20 16:00:00 CET
 categories: meetup 
 links:
-location: V-01-022
+location: S-05-026
 logo: /assets/logo-cairelab.png
 talks:
-- title: "Towards a mature AI infrastructure at the LUMC."
+- title: "Predicting depression in cancer patients before the onset of treatment."
   speaker:
-    name: "Alexander van Someren"
+    name: "Anne de Hond & Marieke van Buchem"
     twitter: 
     github: 
     organization: IT&DI department of Leiden University Medical Center
   abstract: |
-  Alexander will share some of his ideas on creating a production-grade AI infrastructure at the LUMC, covering subjects such as data and experimentation management and deploying ML APIs.
 ---
