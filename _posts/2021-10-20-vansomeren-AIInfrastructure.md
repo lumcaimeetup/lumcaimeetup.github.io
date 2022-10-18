@@ -13,4 +13,5 @@ talks:
     github: 
     organization: IT&DI department of Leiden University Medical Center
   abstract: |
+  Alexander will share some of his ideas on creating a production-grade AI infrastructure at the LUMC, covering subjects such as data and experimentation management and deploying ML APIs.
 ---
