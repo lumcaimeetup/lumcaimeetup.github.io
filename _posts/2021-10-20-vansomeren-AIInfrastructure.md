@@ -6,7 +6,7 @@ links:
 location: V-01-022
 logo: /assets/logo-cairelab.png
 talks:
-- title: "Towards AI a mature AI infrastructure."
+- title: "Towards a mature AI infrastructure."
   speaker:
     name: "Alexander van Someren"
     twitter: 
