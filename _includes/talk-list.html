@@ -20,6 +20,12 @@
               {% include logo-linkedin.html %}
             </a>
           {% endif %}
+
+          {% if talk.speaker.linkedincompany %}
+            <a class="talk-speaker-linkedin" target="_blank" itemprop="sameAs" href="https://linkedin.com/company/{{talk.speaker.linkedincompany}}" title="@{{talk.speaker.linkedincompany}} on LinkedIn">
+              {% include logo-linkedin.html %}
+            </a>
+          {% endif %}
           
           {% if talk.speaker.github %}
             <a class="talk-speaker-github" target="_blank" itemprop="sameAs" href="https://github.com/{{talk.speaker.github}}" title="@{{talk.speaker.github}} on GitHub">
