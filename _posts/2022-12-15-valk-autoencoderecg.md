@@ -13,4 +13,10 @@ talks:
     github: ViktorvdValk
     organization: Division of Image Processing (LKEB)
   abstract: |
+- title: "Christmas drinks!"
+  speaker:
+    name: "Everyone"
+    organization: Division of Image Processing (LKEB)
+  abstract: |
+
 ---
