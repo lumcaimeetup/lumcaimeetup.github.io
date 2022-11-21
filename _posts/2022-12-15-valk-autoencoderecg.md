@@ -1,5 +1,5 @@
 ---
-title: "Variational Autoencoders for ECG signal"
+title: "Variational Autoencoders for ECG signal & drinks!"
 date: 2022-12-15 16:00:00 CET
 categories: meetup 
 links:
