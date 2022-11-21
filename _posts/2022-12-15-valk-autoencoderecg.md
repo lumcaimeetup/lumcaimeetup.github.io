@@ -16,7 +16,6 @@ talks:
 - title: "Christmas drinks!"
   speaker:
     name: "Everyone"
-    organization: Division of Image Processing (LKEB)
   abstract: |
 
 ---
