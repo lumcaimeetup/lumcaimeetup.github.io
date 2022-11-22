@@ -1,5 +1,5 @@
 ---
-title: "Survival Prediction in cancer patients"
+title: "Survival prediction in cancer patients"
 date: 2023-02-09 16:00:00 CET
 categories: meetup 
 links:
