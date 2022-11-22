@@ -15,6 +15,9 @@ talks:
     scholar: NzpPmMYAAAAJ
     linkedin: ibhat
   abstract: |
-    A radiomics-based pipeline was developed to investigate whether we can use uncertainty estimates computed by the segmentation model to filter false positives. We compared popular uncertainty estimation techniques in the medical image analysis field on their ability to filter false positives. Although we found our classifier could effectively reduce false-positives, we found that the classifier relied on shape-based radiomics features (that are computed using the binary mask) rather than intensity/texture features (that are computed using the uncertainty estimates).
+    Deep learning techniques show success in detecting objects in medical images, but still suffer from false-positive predictions that may hinder accurate diagnosis. The estimated uncertainty of the neural network output has been used to flag incorrect predictions. We study the role played by features computed from neural network uncertainty estimates and shape-based features computed from binary predictions in reducing false positives in liver lesion detection by developing a classification-based post-processing step for different uncertainty estimation methods. We demonstrate an improvement in the lesion detection performance of the neural network (with respect to F1-score) for all uncertainty estimation methods on two datasets, comprising abdominal MR and CT images, respectively. We show that features computed from neural network uncertainty estimates tend not to contribute much toward reducing false positives. Our results show that factors like class imbalance (true over false positive ratio) and shape-based features extracted from uncertainty maps play an important role in distinguishing false positive from true positive predictions. 
+    <br/>
+    
+    Our code can be found at https://github.com/ishaanb92/FPCPipeline.
     
 ---
