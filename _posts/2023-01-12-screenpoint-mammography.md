@@ -14,5 +14,9 @@ talks:
     scholar: 
     organization: Screenpoint
   abstract: |
-    TBD
+    Happy new years' everyone!
+    
+    Tomorrow we have our first meetup of the year! We are excited to share that Jaap Kroes (Research Team Lead)  and Natasja Janssen (Medical Affairs Lead) of ScreenPoint Medical will be sharing their experience during the validation of their AI-based Breast Cancer Detection Tool.  We want to invite all researchers and practitioners (especially radiologists) to our upcoming meetup.
+    
+    See you all tomorrow
 ---
