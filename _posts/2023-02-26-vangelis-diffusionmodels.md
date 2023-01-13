@@ -1,17 +1,17 @@
 ---
 title: "Tech talk: diffusion models"
-date: 2023-03-09 16:00:00 CET
+date: 2023-02-26 16:00:00 CET
 categories: meetup 
 links:
 location: V-01-022
-logo: /assets/logo-leidenuniversity.png
+logo: /assets/logo-lumc.png
 talks:
-- title: "In which cases can the patients recover damages from the healthcare provider after AI has been used?"
+- title: "Tech talk: diffusion models"
   speaker:
-    name: "Vangelis "
+    name: "Vangelis Kostoulas"
     twitter: 
     github: 
-    organization: Leiden University
+    organization: Radiotherapy department of Leiden University Medical Center
   abstract: |
     TBH
 ---
