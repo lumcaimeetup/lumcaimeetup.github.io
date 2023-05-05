@@ -6,6 +6,14 @@ Collegezaal1:
   web: "http://test.com"
   osm: "https://www.openstreetmap.org/node/42069"
 
+S-00-010:
+  short: "S-00-010, Building 2, LUMC"
+  name: "S-00-010, Building 2"
+  street: "Onderzoeksgebouw, Leiden University Medical Center"
+  city: "Leiden"
+  web: "https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart.pdf"
+  osm: "https://www.openstreetmap.org/way/285621791"
+
 S-05-026:
   short: "S-05-026, Building 2, LUMC"
   name: "S-05-026, Building 2"
