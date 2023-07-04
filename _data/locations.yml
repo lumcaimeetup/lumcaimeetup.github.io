@@ -1,3 +1,11 @@
+J-01-116:
+  short: "J-01-116, Building 1, LUMC"
+  name: "J-01-116, Building 1"
+  street: "Albinusdreef, Leiden"
+  city: "Leiden"
+  web: "https://www.lumc.nl/siteassets/over-het-lumc/contact-algemeen/bestanden/lumc-routekaart.pdf"
+  osm: "https://www.openstreetmap.org/way/151233702"
+
 Collegezaal1:
   short: "CZ1"
   name: "Collegezaal1"
